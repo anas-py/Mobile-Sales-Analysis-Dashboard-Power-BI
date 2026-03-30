@@ -2,7 +2,8 @@
 
 > An end-to-end **interactive sales analytics dashboard** built in Power BI, analyzing mobile phone sales performance across Indian cities for multiple brands.
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
+![Dashboard Preview](![Screenshot 2026-03-27 164329](https://github.com/user-attachments/assets/14e6efff-b042-4b4c-aeaf-62bb9409da96)
+)
 
 ---
 
